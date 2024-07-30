@@ -22,11 +22,11 @@ Modify the existing authentication middleware to work in the context of a GraphQ
 Create an Apollo Provider so that requests can communicate with an Apollo Server.
 Deploy the application to Render.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contributing
+## Contributing
 Please feel free to contribute to this project by submitting a pull request.
 
-Questions
+## Questions
 If you have any questions about the repo, open an issue or contact me directly at [ablesnicole@icloud.com]. You can find more of my work at [https://github.com/nicoleables].
