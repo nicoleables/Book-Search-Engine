@@ -29,4 +29,4 @@ This project is licensed under the MIT License.
 Please feel free to contribute to this project by submitting a pull request.
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at [ablesnicole@icloud.com]. You can find more of my work at [https://github.com/nicoleables].
+If you have any questions about the repo, open an issue or contact me directly at ablesnicole@icloud.com. You can find more of my work at https://github.com/nicoleables.
